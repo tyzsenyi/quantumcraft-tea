@@ -1,0 +1,26 @@
+{
+  "name": "quantumcraft-tea",
+  "version": "1.0.0",
+  "description": "Welcome to QuantumCraft! QuantumCraft is an innovative platform designed to explore the fascinating world of quantum computing. Whether you're a quantum physicist, a computer scientist, or simply curious about the future of computing, QuantumCraft offers a unique environment to experiment, learn, and collaborate on quantum projects.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/tyzsenyi/quantumcraft-tea.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "tyzsenyi",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
